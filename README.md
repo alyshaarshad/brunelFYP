@@ -19,11 +19,11 @@ Training_process includes :
 - the rf_model.pkl , svm_model.pkl and model.h5 are the algorithm trained and saved
 
 Final prototype includes:
--predicting_direction which is a test of predicting the direction
--final_program is the final version of the prototype
--test_finalprototype is testing for the final_program
--direction.json is the output of the final_program
--all files in /test_data/ are testing data
+- predicting_direction which is a test of predicting the direction
+- final_program is the final version of the prototype
+- test_finalprototype is testing for the final_program
+- direction.json is the output of the final_program
+- all files in /test_data/ are testing data
 
 Robot includes:
 - direction.json which contains the predicted direction
