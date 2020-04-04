@@ -1,7 +1,7 @@
 # brunelFYP
 
 Osc_data_monitor include:
-This application has been modified to save the data that has is being streamed from the muse via the MindMonitor app on an android device. The application came from https://www.kasperkamperman.com/blog/processing-code/osc-datamonitor/
+- This application has been modified to save the data that has is being streamed from the muse via the MindMonitor app on an  android device. The application came from https://www.kasperkamperman.com/blog/processing-code/osc-datamonitor/
 
 Data_engineering includes:
 - data_processing which cleans the data removing unwanted data from the txt files in each section
@@ -27,5 +27,5 @@ Final prototype includes:
 
 Robot includes:
 - direction.json which contains the predicted direction
--io_wrapper which wraps the motors on the robot
--robot.py which executes the direction from direction.json
+- io_wrapper which wraps the motors on the robot
+- robot.py which executes the direction from direction.json
