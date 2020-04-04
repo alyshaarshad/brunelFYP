@@ -18,7 +18,7 @@ Training_process includes :
 - algorithm_data_analysis is where the data is analysed and so the final algorithms can be trained on the right dataset
 - the rf_model.pkl , svm_model.pkl and model.h5 are the algorithm trained and saved
 
-Final prototype includes - 
+Final prototype includes:
 -predicting_direction which is a test of predicting the direction
 -final_program is the final version of the prototype
 -test_finalprototype is testing for the final_program
